@@ -1,0 +1,10 @@
+package Model;
+
+public class Student extends User{
+    public String grade;
+    public Student(String name, int id) {
+        super(name, id);
+    }
+
+
+}

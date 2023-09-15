@@ -2,7 +2,6 @@ package Model;
 
 public class User {
     private String name;
-    private String userName;
     private int id;
 
     public User(String name, int id) {
